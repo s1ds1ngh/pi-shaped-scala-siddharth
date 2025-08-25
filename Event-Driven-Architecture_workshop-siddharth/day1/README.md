@@ -1,6 +1,5 @@
 # Event-Driven Architecture E-commerce Order Processing System
 
-**Author:** Manus AI  
 **Technology Stack:** Scala, Akka, RabbitMQ  
 **Architecture Pattern:** Event-Driven Architecture (EDA)
 
@@ -422,8 +421,3 @@ The system includes extensive logging and monitoring capabilities:
 [8] Gregor Hohpe and Bobby Woolf. "Enterprise Integration Patterns." Addison-Wesley Professional, 2003.
 
 ---
-
-**Project Author:** Manus AI  
-**Last Updated:** 2025  
-**License:** MIT License
-
